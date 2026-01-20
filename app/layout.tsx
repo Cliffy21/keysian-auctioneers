@@ -1,7 +1,7 @@
 import "./globals.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import StickyBar from "../components/StickyBar";
+
 
 export const metadata = {
   title: "Keysian Auctioneers",
@@ -19,7 +19,7 @@ export default function RootLayout({
         <Header />
         <main>{children}</main>
         <Footer />
-        <StickyBar />
+        
       </body>
     </html>
   );

@@ -238,7 +238,7 @@ export default function Footer() {
               Keysian Auctioneers
             </Link>
             <p className="tagline">
-              Premier auction services with a legacy of excellence and trust since 1995.
+              Premier auction services with a legacy of excellence and trust since 1998.
             </p>
             
             {/* Social Links */}

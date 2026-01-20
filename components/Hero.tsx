@@ -735,7 +735,7 @@ export default function Hero() {
           <div className="hero-content">
             <div className="hero-badge">
               <GavelIcon />
-              <span>Licensed Auctioneers Since 2009</span>
+              <span>Licensed Auctioneers Since 1998</span>
             </div>
 
             <h1 className="hero-title">
